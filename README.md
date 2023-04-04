@@ -17,6 +17,8 @@ Library Requirements : Standard C Library such as..
 
 
   > **NOTE** : *This snake game console actually have a little bug when generating food on random location. If you want to contribute to fix that bug and another bug while trying from source code, read the [CONTRIBUTING.md](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/CONTRIBUTING.md) file to know how to contribute to this little fun project*
+  
+  - [ ] https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/issues/1
 
 
   ### Jump to section
