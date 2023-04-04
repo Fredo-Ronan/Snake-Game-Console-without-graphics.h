@@ -1,7 +1,7 @@
 # Snake-Game-Console-without-graphics.h
 ### Snake Game Console build in C language but without ``graphics.h`` header
 
-This is the simple snake game that run on windows console/command prompt/CMD without using graphic library or ``graphic.h`` for display the graphic thing on C language.
+This is the simple snake game that run on windows console/command prompt/CMD without using graphic library or ``graphic.h`` for display the graphic thing on <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" /> language.
 The main idea is to make movement of the snake using looping and every loop, the coordinate of the snake and it's tail is different sequencially.
 This snake game is build just using the basic syntax of the C language without any special syntax from another C library.
 
