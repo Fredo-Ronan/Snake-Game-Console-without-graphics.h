@@ -38,9 +38,9 @@ This snake game is build just using the basic syntax of the C language without a
   * After that, your VS CODE will be open to that directory
   * Open those source files by double click it, or using CTRL + P to search and open
   * Open the terminal inside your VS CODE (you can use shortcut CTRL + ` on your keyboard)
-  * type ``gcc -o main.c snake``
+  * type ``gcc -o main.c source.c snake``
   Actually the ``snake`` can be replace according to your preference what to name the .exe file for the output of the program.
   So the format is :
-  ``gcc -o <sourceFiles> <outputName>``
+  ``gcc -o <sourceFiles, sourceFiles> <outputName>``
 
 ---
