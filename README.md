@@ -20,10 +20,10 @@ Library Requirements : Standard C Library such as..
 
 
   ### Jump to section
-  * [Features ✔](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#features)
-  * [Limitations ⚠](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#limitations)
-  * [Preview Images 👀](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#preview-images)
-  * [Build and Run from source code 🛠⚙](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#build-and-run-the-source-file)
+  * [Features ✔](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#features-)
+  * [Limitations ⚠](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#limitations-)
+  * [Preview Images 👀](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#preview-images-)
+  * [Build and Run from source code 🛠⚙](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#build-and-run-the-source-file-)
 
 
 ---
