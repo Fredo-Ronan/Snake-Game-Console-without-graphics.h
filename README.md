@@ -32,7 +32,7 @@ This snake game is build just using the basic syntax of the C language without a
 * Download the source code (see the download instructions)
 * Extract the zip downloaded source code to the directory that you want
 
-## If you are using VS CODE, follow these instructions
+### If you are using VS CODE, follow these instructions
 * Open the CMD on your windows machine to that directory (see the shortest way to open directly from the directory)
 * type ``code .`` then press ENTER
 * After that, your VS CODE will be open to that directory
