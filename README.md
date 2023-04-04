@@ -72,13 +72,20 @@ Library Requirements : Standard C Library such as..
   
 * **Game Play**
 
-  <img src="https://user-images.githubusercontent.com/128687596/229768005-349115bc-96f0-427f-b281-7ac2c36b373e.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/128687596/229838794-11e8df48-f933-4cf3-9df8-643e010873c1.png" width="300"/>
   
   *Game Play in action*
   
-  <img src="https://user-images.githubusercontent.com/128687596/229783462-23544d67-ad28-400f-af97-f243fd6a9466.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/128687596/229783462-23544d67-ad28-400f-af97-f243fd6a9466.png" width="300"/>
 
   *Game Paused by pressing P key on keyboard*
+  
+  <img src="https://user-images.githubusercontent.com/128687596/229838230-cc1bafa6-49d4-4986-a6e7-30ddd584045f.png" width="300"/>
+  
+  *Game Over*
+  
+
+  
 ---
 # Build and Run the source file 🛠⚙
 * **Windows**
