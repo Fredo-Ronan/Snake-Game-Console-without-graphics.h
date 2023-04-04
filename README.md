@@ -2,6 +2,8 @@
 ### Snake Game Console build in C language but without ``graphics.h`` header
 OS : <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
 
+```Version : v1.0.0```
+
 Library Requirements : Standard C Library such as..
 ```C
 #include <stdio.h>
