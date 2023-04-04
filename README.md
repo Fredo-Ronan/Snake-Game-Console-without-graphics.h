@@ -41,6 +41,6 @@ This snake game is build just using the basic syntax of the C language without a
   * type ``gcc -o main.c source.c snake``
   Actually the ``snake`` can be replace according to your preference what to name the .exe file for the output of the program.
   So the format is :
-  ``gcc -o <sourceFiles, sourceFiles> <outputName>``
+  ``gcc -o <sourceFiles sourceFiles> <outputName>``
 
 ---
