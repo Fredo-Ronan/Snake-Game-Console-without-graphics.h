@@ -90,8 +90,15 @@ Library Requirements : Standard C Library such as..
 # Build and Run the source file 🛠⚙
 * **Windows**
   > *If you want to run this code from text editor like VS CODE, you **MUST HAVE** GCC Compiler installed on your computer environment*
+  > *These are couple of way to get the GCC Compiler installed in your computer :*
+  > *  Installer called MinGW is pretty popular among windows users, you can directly search in google by keyword : MinGW C Compiler download OR [you can click this to download MinGW and read installation instructions](https://www.scaler.com/topics/c/c-compiler-for-windows/) to get the GCC Compiler install in your computer
+  > *  Other installer is msys2 which i use in my computer, [click here for the msys2 download and install instructions](https://www.msys2.org/).
+  > 
+  > ***NOTE** that not only install the GCC Compiler using one of the installer, but also configure the PATH to your windows system environment*
 
   > *RECOMMENDED is using IDE such as Dev C++ or Microsoft Visual Studio*
+  > *  [Click here to download the Dev C++ IDE from official website](https://www.bloodshed.net/).
+  > *  [Click here to download Dev C++ version that i use in my computer](https://github.com/Fredo-Ronan/Dev-C-IDE-Installer)
 
   * Download the source code (see the download instructions)
   * Extract the zip downloaded source code to the directory that you want
