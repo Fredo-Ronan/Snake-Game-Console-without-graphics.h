@@ -33,13 +33,13 @@ Library Requirements : Standard C Library such as..
 ---
 # Features ✔
 * Move the snake using W A S D on keyboard ➡⬅⬆⬇ ⌨
-* Store the history of the player including the player names 💾
-* Access the history every running the program on the same directory as generated history.txt file 📂
+* Store the history of the player including the player names and the date time achieved 💾
+* Access the history even when the program has been terminated (persistence text file based) 📂
 * Pause the game when anything disturb while playing ⏸
 
 ---
 # Limitations ⚠
-* Unfortunately, because this simple console snake game is running by looping mechanism without any graphic engine and special syntax, so it's depends on the CPU speed. The faster CPU speed, more smooth the snake will run in the game.
+* Unfortunately, this snake game console runs using the principle of looping and without using a graphics engine such as the ``graphics.h`` header, so its performance depends on CPU speed, the higher the CPU speed, the smoother the "snake" moves in the game.
 * This snake game only run on Windows Operating System in CMD form/console program.
 
 ---
@@ -116,6 +116,7 @@ Library Requirements : Standard C Library such as..
   So the format is :
   ``gcc <sourceFiles sourceFiles> -o <outputName>``
   * type ``start snake.exe`` or ``./snake`` to run the program
+  * Enjoy :)
   
   
   #### When compile and running from the source using Vs Code, ignore these files inside the source code folder :
