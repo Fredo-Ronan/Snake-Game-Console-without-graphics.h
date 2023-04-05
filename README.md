@@ -4,6 +4,8 @@ OS : <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=wi
 
 ```Version : v1.0.0```
 
+### [README Indonesian Version (README Versi Indonesia)](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/README%20(Indonesian%20Version).md)
+
 Library Requirements : Standard C Library such as..
 ```C
 #include <stdio.h>
