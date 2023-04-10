@@ -21,9 +21,15 @@ Library yang dibutuhkan : Standard Library Bahasa C seperti..
   > **NOTE** : *Program Snake Game ini sebenarnya masih mempunyai bug saat generate lokasi random untuk makanan sebagai komponen untuk memperoleh score dalam snake game ini, jika teman - teman ingin berkontribusi untuk memperbaiki bug tersebut atau bug lain yang di temukan, teman - teman bisa membaca file [CONTRIBUTING.md](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/CONTRIBUTING.md) untuk mengetahui bagaimana cara untuk berkontribusi dalam fun project kecil ini*
   
   - [ ] [Random food coordinate generating bug issue](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/issues/1)
+---
+### Demo Video Gameplay
 
+[//]: # (https://user-images.githubusercontent.com/128687596/230853416-b353ac7d-dd65-4a21-93c3-45e084b9fb9a.mp4)
 
-  ### Jump to section
+<img alt="DemoVideo" src="https://user-images.githubusercontent.com/128687596/230856656-8397bdf4-502c-4c4e-92d4-87ffca699512.gif" width="500"> </img>
+---
+
+  ### Daftar isi
   * [Fitur - fitur ✔](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#features-)
   * [Batasan/Kelemahan ⚠](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#limitations-)
   * [Pratinjau Gambar 👀](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#preview-images-)
