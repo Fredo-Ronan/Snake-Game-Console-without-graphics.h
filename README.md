@@ -24,7 +24,7 @@ Library Requirements : Standard C Library such as..
   
   - [ ] [Random food coordinate generating bug issue](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/issues/1)
 ---
-### Demo Video
+### Demo Video Gameplay
 
 [//]: # (https://user-images.githubusercontent.com/128687596/230853416-b353ac7d-dd65-4a21-93c3-45e084b9fb9a.mp4)
 
