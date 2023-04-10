@@ -6,12 +6,6 @@ OS : <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=wi
 
 ### [README Indonesian Version (README Versi Indonesia)](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/README%20(Indonesian%20Version).md)
 
-### Demo Video
-[//]: # (https://user-images.githubusercontent.com/128687596/230853416-b353ac7d-dd65-4a21-93c3-45e084b9fb9a.mp4)
-
-<img alt="DemoVideo" src="https://user-images.githubusercontent.com/128687596/230856656-8397bdf4-502c-4c4e-92d4-87ffca699512.gif" width="500"> </img>
-
-
 Library Requirements : Standard C Library such as..
 ```C
 #include <stdio.h>
@@ -29,7 +23,13 @@ Library Requirements : Standard C Library such as..
   > **NOTE** : *This snake game console actually have a little bug when generating food on random location. If you want to contribute to fix that bug and another bug while trying from source code, read the [CONTRIBUTING.md](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/CONTRIBUTING.md) file to know how to contribute to this little fun project*
   
   - [ ] [Random food coordinate generating bug issue](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/issues/1)
+---
+### Demo Video
 
+[//]: # (https://user-images.githubusercontent.com/128687596/230853416-b353ac7d-dd65-4a21-93c3-45e084b9fb9a.mp4)
+
+<img alt="DemoVideo" src="https://user-images.githubusercontent.com/128687596/230856656-8397bdf4-502c-4c4e-92d4-87ffca699512.gif" width="500"> </img>
+---
 
   ### Jump to section
   * [Features ✔](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h#features-)
