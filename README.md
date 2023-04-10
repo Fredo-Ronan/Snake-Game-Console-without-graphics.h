@@ -6,6 +6,13 @@ OS : <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=wi
 
 ### [README Indonesian Version (README Versi Indonesia)](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/README%20(Indonesian%20Version).md)
 
+### Demo Video
+
+<p align="center">
+  <video autoplay loop src="https://user-images.githubusercontent.com/128687596/230853416-b353ac7d-dd65-4a21-93c3-45e084b9fb9a.mp4"></video>
+</p>
+
+
 Library Requirements : Standard C Library such as..
 ```C
 #include <stdio.h>
