@@ -8,5 +8,5 @@ Start-BitsTransfer -Source $URL -Destination $Path
 write-output "Starting the GCC Installer....."
 timeout /t 10 /nobreak
 
-cd "C:\Users\DELL\Downloads\"
+cd $PathDownload
 ./msys2-x86_64-20230318
