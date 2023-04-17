@@ -1,6 +1,21 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File "C:\\File_Download_1.ps1"
+
+if exist "%CD%\msys2_download_and_install.ps1" goto go
+if not exist "%CD%\msys2_download_and_install.ps1" goto error
+
+:go
+powershell -ExecutionPolicy Bypass -File "%CD%\msys2_download_and_install.ps1"
+
+:error
+echo "                         [!] <<< WARNING >>> [!]"
+echo " "
+echo "  >> The msys2_download_and_install.ps1 file must be in the same directory as this batch file"
+echo " "
+echo "  >> Please move that file to this directory before continue...."
+echo " "
+echo " "
+pause
+
 
 Rem {IMPORTANT NOTES} :
-Rem This Batch File is not perfect yet, stay tune for more updated automate GCC download script
-Rem Batch File ini belum sempurna, mohon menunggu update selanjutnya untuk script download otomatis GCC
+Rem Please read the README.md file for the instruction of using this batch file to automate the download and installation
