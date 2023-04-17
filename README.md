@@ -101,6 +101,7 @@ Library Requirements : Standard C Library such as..
   > *These are couple of way to get the GCC Compiler installed in your computer :*
   > *  Installer called MinGW is pretty popular among windows users, you can directly search in google by keyword : MinGW C Compiler download OR [you can click this to download MinGW and read installation instructions](https://www.scaler.com/topics/c/c-compiler-for-windows/) to get the GCC Compiler install in your computer
   > *  Other installer is msys2 which i use in my computer, [click here for the msys2 download and install instructions](https://www.msys2.org/).
+  > *You can actually automate the download and installation using my script, [click here to download the automate download script](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/tree/main/Automate%20Msys2%20Download%20Script).*
   > 
   > ***NOTE** that not only install the GCC Compiler using one of the installer, but also configure the PATH to your windows system environment*
 
