@@ -99,6 +99,8 @@ Library yang dibutuhkan : Standard Library Bahasa C seperti..
   > *Berikut adalah beberapa cara untuk mendapatkan GCC Compiler dan instruksi untuk menginstallnya :*
   > *  Installer bernama MinGW cukup populer di kalangan pengguna windows, anda bisa mencarinya di google dengan kata kunci : MinGW C Compiler download ATAU [anda bisa klik di sini untuk mendownload dan membaca instruksi instalasinya](https://www.scaler.com/topics/c/c-compiler-for-windows/)
   > *  Installer lainnya yang saya menggunakannya di komputer saya adalah msys2, [klik disini untuk mendownload dan membaca instruksi instalasinya](https://www.msys2.org/).
+  > d
+  > **Anda juga dapat meng-otomatiskan download GCC Compiler menggunakan script yang saya buat. [klik disini untuk mendownload script tersebut](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/tree/main/Automate%20Msys2%20Download%20Script).**
   > 
   > ***CATATAN** tidak hanya menginstall GCC Compiler saja, tetapi anda juga harus mengkonfigurasi PATH di dalam environment komputer windows anda*
 
