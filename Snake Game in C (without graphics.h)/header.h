@@ -17,6 +17,8 @@ typedef struct History {
 	char dateTime[sizeHistory];
 }History;
 
+void clearMap(char map[Y][X]);
+
 void initTail(char tail[]);
 void createMap(char map[Y][X], int *x, int *y, char *head, char tail[], int xTail[], int yTail[], int *maxTail, bool *makeFood, int *xEat, int *yEat);
 void renderMap(char map[Y][X]);
