@@ -2,7 +2,7 @@
 ### Snake Game Console build in C language but without ``graphics.h`` header
 OS : <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
 
-```Version : v1.0.0```
+```Version : v1.1.0```
 
 ### [README Indonesian Version (README Versi Indonesia)](https://github.com/Fredo-Ronan/Snake-Game-Console-without-graphics.h/blob/main/README%20(Indonesian%20Version).md)
 
