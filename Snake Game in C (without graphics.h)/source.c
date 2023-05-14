@@ -1,5 +1,17 @@
 #include "header.h"
 
+void clearMap(char map[Y][X])
+{
+	int i, j;
+	
+	for(i=0;i<Y;i++)
+	{
+		for(j=0;j<X;j++)
+		{
+			map[i][j] = ' ';
+		}
+	}
+}
 
 //INITIALIZE AND UPDATE GAME MAP =============================================================================================================================
 
