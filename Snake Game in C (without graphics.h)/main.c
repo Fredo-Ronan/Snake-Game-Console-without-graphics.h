@@ -116,6 +116,8 @@ void main() {
 					
 					xTail[0] = x;
 					yTail[0] = y;
+					
+					clearMap(map);
 				
 					while(aktif==true)
 					{
